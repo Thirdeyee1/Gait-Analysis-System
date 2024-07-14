@@ -1,4 +1,4 @@
-# Dynamic Gait Cycle Calculation using BLE and Arduino
+# Dynamic Gait Cycle Calculation using Arduino BLE 
 
 This repository contains the code and documentation for a dynamic gait cycle calculator using Arduino and Bluetooth Low Energy (BLE). Unlike traditional gait cycle calculators, which require a fixed number of steps or a specific time duration to calculate cadence, this system can compute cadence and other parameters dynamically, even after just a few steps.
 
